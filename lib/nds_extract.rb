@@ -3,12 +3,12 @@ require 'directors_database'
 
 def directors_totals(nds)
 
-total = 0 
-row_index = 0 
+#total = 0 
+#row_index = 0 
 
-director_counter = 0 
-result = {
-} 
+#director_c#ounter = 0 
+#result = {
+#} 
  
 while director_counter < nds.length do 
  director_name = nds[director_counter][:name]
