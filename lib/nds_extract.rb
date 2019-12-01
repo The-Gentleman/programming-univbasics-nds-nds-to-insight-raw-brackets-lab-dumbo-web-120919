@@ -23,6 +23,6 @@ while director_counter < nds.length do
   director_counter += 1 
 end 
   
-result 
+p result 
 end 
 
