@@ -6,7 +6,7 @@ def directors_totals(nds)
 #total = 0 
 #row_index = 0 
 
-director_c#ounter = 0 
+director_counter = 0 
 result = {
 } 
  
