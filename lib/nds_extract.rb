@@ -7,8 +7,8 @@ def directors_totals(nds)
 #row_index = 0 
 
 #director_c#ounter = 0 
-#result = {
-#} 
+result = {
+} 
  
 while director_counter < nds.length do 
  director_name = nds[director_counter][:name]
